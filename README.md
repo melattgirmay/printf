@@ -14,4 +14,3 @@ The available convertion specifiers are:
 %x: Prints the hexadecial representation of an unsigned decimal in lowercase letters
 %X:Prints the hexadecial representation of an unsigned decimal in uppercase letters
 %r: Prints a reversed string
-%R: Prints the Rot13 interpretation of a string
